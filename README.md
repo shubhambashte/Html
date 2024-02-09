@@ -1,2 +1,2 @@
 # Html-
-learning Html  from Stratch
+learning Html  from Scratch
